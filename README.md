@@ -9,7 +9,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful Resources](#useful-resources)
   - [Author](#author)
@@ -26,15 +25,16 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-
+Desktop Version
 ![Desktop Version](desktop.jpg)
 
+Mobile Version
 ![Mobile Version](mobile.jpg)
 
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/Ninuolafs/Social-Proof-Section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://ninuolafs.github.io/Social-Proof-Section/)
 
 
 ### Built with
